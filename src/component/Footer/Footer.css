@@ -1,0 +1,11 @@
+@import url(../../common/colors.css);
+
+.footer-wrap{
+    height: 72px;
+    background-color: var(--primary-color);
+    color: var(--font-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
